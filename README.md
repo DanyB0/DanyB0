@@ -6,4 +6,4 @@
   * ### https://kitsu.io/users/575191
 
 # Top waifu forever and ever
-[![Anime-X-679020.jpg](https://i.postimg.cc/X71VwVgX/Anime-X-679020.jpg)](https://postimg.cc/LnfKSFwM)
+[![1994856.jpg](https://i.postimg.cc/RhQB6mZC/1994856.jpg)](https://postimg.cc/q6RYS9KW)
