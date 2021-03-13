@@ -1,4 +1,4 @@
-[![wyggwq.png](https://i.postimg.cc/dV0dCC2h/wyggwq.png)](https://postimg.cc/9rvr5rN2)
+[![wyggwq.png](https://i.postimg.cc/Vk5g8pHZ/wyggwq.png)](https://postimg.cc/nXbBKRxq)
 
 # DanyB0
 * ## Anime, Manhwa and Videogames lover
