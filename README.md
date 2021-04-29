@@ -1,6 +1,2 @@
 # DanyB0
-* ## Anime, Manhwa and Videogames lover
-* ## Kitsu profile
-  * ## https://kitsu.io/users/575191
-[![wyggwq.png](https://i.postimg.cc/Vk5g8pHZ/wyggwq.png)](https://postimg.cc/nXbBKRxq)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyB0&theme=onedark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
