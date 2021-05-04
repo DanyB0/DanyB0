@@ -1,9 +1,9 @@
 # Hi there! :wave:
-## Who am I?
+## :question: Who am I?
  * ### I am a chemistry student:test_tube: who loves computer science :desktop_computer:
 ## :world_map: Where am I from?
  * ### I'm from Italy
-## Do I have hobbies?
+## :crossed_swords: Do I have hobbies?
  * ## Of course! Here's a list of my hobbies
    * ### Programming :computer:
    * ### Playing videogames :video_game:
