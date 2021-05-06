@@ -64,9 +64,11 @@
     Other stats
   </summary>
   <p align="center">
-  <br/>
+    <br/>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DanyB0's WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=DanyB0&theme=dracula&disable_animations=false&hide_border=true&bg_color=44475a" />
+    </a>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DanyB0's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DanyB0&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
-  <br/>
+    <br/>
     </a>
   </p>
 </details>
