@@ -32,8 +32,10 @@
   </a>
 </p>
 
+<br><br/>
+
 <!-- SOME PROJECTS -->
-<p align="center">
+<p align="left">
   <h1 align="center">
     Some projects :computer:
   <h1/>
@@ -66,7 +68,6 @@
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DanyB0's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DanyB0&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
   <br/>
     </a>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
 <h1><h1/>
