@@ -21,7 +21,7 @@
 
 <!-- STREAK STATS -->
 <p align="center">
-  <a href="https://github.com/DanyB0/github-readme-streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="DanyB0's_streak" alt="DanyB0's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DanyB0&theme=dracula&hide_border=true&stroke=0000&background=0D1117"/>
   </a>
   <!-- MY STATS -->
