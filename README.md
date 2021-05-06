@@ -16,7 +16,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Hey%2C+you're+finally+awake;Welcome+to+my+GitHub+profile!">
 </p>
 
 <!-- STREAK STATS -->
