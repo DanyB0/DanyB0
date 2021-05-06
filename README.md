@@ -83,3 +83,5 @@
   Discord (DanyB0#7805)
   <br/>
 </p>
+
+![GitHub followers](https://img.shields.io/github/followers/DanyB0?logoColor=red&style=social)
