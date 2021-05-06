@@ -35,7 +35,7 @@
 <br><br/>
 
 <!-- SOME PROJECTS -->
-<p align="left">
+<p align="center">
   <h1 align="center">
     Some projects :computer:
   <h1/>
