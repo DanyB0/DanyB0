@@ -81,6 +81,8 @@
   <br/>
 </p>
 
+<br><br/>
+
 <!-- ICONS -->
 <p align="center">
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
@@ -95,3 +97,4 @@
     <img alt="GitHub" title="GitHub" height="36px"
       src="https://i.imgur.com/DZgetVv.png">
   </a>
+  
