@@ -40,15 +40,15 @@
     Some projects :computer:
   <h1/>
   <!-- Shadow-Ruler -->
-  <a href="https://github.com/DanyB0/Shadow-Ruler">
+  <a align="center" href="https://github.com/DanyB0/Shadow-Ruler">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DanyB0&repo=Shadow-Ruler&theme=dracula&bg_color=0D1117&hide_border=true" alt="Shadow-Ruler">
   </a>
   <!-- meet-attendance -->
-  <a href="https://github.com/DanyB0/meet-attendence">
+  <a align="center" href="https://github.com/DanyB0/meet-attendence">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DanyB0&repo=meet-attendance&theme=dracula&bg_color=0D1117&hide_border=true" alt="meet-attendence">
   </a>
   <!-- Tokyo-Neon -->
-  <a href="https://github.com/DanyB0/Tokyo-Neon">
+  <a align="center" href="https://github.com/DanyB0/Tokyo-Neon">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DanyB0&repo=Tokyo-Neon&theme=dracula&bg_color=0D1117&hide_border=true" alt="Tokyo-Neon"></a>
 </p>
 
