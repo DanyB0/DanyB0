@@ -72,6 +72,19 @@
     </a>
   </p>
 </details>
+  
+<!-- MUSIC -->
+<details> 
+  <summary>
+    Music
+  </summary>
+  <p align="center">
+    <br/>
+      <a href="https://open.spotify.com/user/DanyB0"><img alt="DanyB0's WakaTime" src="https://novatorem-alpha-seven.vercel.app/api/spotify" />
+    </a>
+    <br/>
+  </p>
+</details>
 <h1><h1/>
 
 <!-- CONTACT -->
