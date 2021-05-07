@@ -1,19 +1,3 @@
-<!-- ICONS -->
-<p align="center">
-  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
-    <img alt="Python" title="Python" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-  </a>
-  <a>
-    <img alt="Visual Studio" title="Visual Studio Code" height="36px"
-      src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-  </a>
-  <a>
-    <img alt="GitHub" title="GitHub" height="36px"
-      src="https://i.imgur.com/DZgetVv.png">
-  </a>
-</p>
-
 <!-- GIF -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Hey%2C+you.+You're+finally+awake.;Welcome+to+my+GitHub+profile!">
@@ -97,4 +81,17 @@
   <br/>
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/DanyB0?logoColor=red&style=social)
+<!-- ICONS -->
+<p align="center">
+  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
+    <img alt="Python" title="Python" height="36px"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  </a>
+  <a>
+    <img alt="Visual Studio" title="Visual Studio Code" height="36px"
+      src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
+  </a>
+  <a>
+    <img alt="GitHub" title="GitHub" height="36px"
+      src="https://i.imgur.com/DZgetVv.png">
+  </a>
