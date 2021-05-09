@@ -12,7 +12,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DanyB0's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DanyB0&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
   </a>
   <!-- MOST USED LANGUAGES -->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DanyB0's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyB0&hide=javascript,scss,ruby,less&theme=dracula&disable_animations=false&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DanyB0's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyB0&hide=javascript,scss,ruby,less&exclude_repo=my-dynamic-website&theme=dracula&disable_animations=false&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 
