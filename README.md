@@ -31,10 +31,6 @@
   <a align="center" href="https://github.com/DanyB0/meet-attendance">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DanyB0&repo=meet-attendance&theme=dracula&bg_color=0D1117&hide_border=true" alt="meet-attendence">
   </a>
-  <!-- Tokyo-Neon -->
-  <a align="center" href="https://github.com/DanyB0/Tokyo-Neon">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DanyB0&repo=Tokyo-Neon&theme=dracula&bg_color=0D1117&hide_border=true" alt="Tokyo-Neon"></a>
-</p>
 
 <!-- MORE REPOS BADGE -->
 <p align="center">
