@@ -27,11 +27,11 @@
 <p align="center">
   <!-- Shadow-Ruler -->
   <a align="center" href="https://github.com/DanyB0/Shadow-Ruler">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DanyB0&repo=Shadow-Ruler&theme=dracula&bg_color=0D1117&hide_border=true" alt="Shadow-Ruler">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DanyB0&repo=Shadow-Ruler&theme=material-palenight&bg_color=0D1117&hide_border=true" alt="Shadow-Ruler">
   </a>
   <!-- meet-attendance -->
   <a align="center" href="https://github.com/DanyB0/meet-attendance">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DanyB0&repo=meet-attendance&theme=dracula&bg_color=0D1117&hide_border=true" alt="meet-attendence">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DanyB0&repo=meet-attendance&theme=material-palenight&bg_color=0D1117&hide_border=true" alt="meet-attendence">
   </a>
 </p>
 
