@@ -6,13 +6,13 @@
 <!-- STREAK STATS -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="DanyB0's_streak" alt="DanyB0's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DanyB0&theme=dracula&hide_border=true&stroke=0000&background=0D1117"/>
+    <img title="DanyB0's_streak" alt="DanyB0's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DanyB0&theme=material-palenight&hide_border=true&stroke=0000&background=0D1117"/>
   </a>
   <!-- MY STATS -->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DanyB0's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DanyB0&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DanyB0's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DanyB0&show_icons=true&count_private=true&theme=nord&hide_border=true&bg_color=0D1117" /></a>
   </a>
   <!-- MOST USED LANGUAGES -->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DanyB0's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyB0&hide=javascript,scss,ruby,less&exclude_repo=my-dynamic-website&theme=dracula&disable_animations=false&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DanyB0's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyB0&hide=javascript,scss,ruby,less&exclude_repo=my-dynamic-website&theme=nord&disable_animations=false&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 
