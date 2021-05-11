@@ -1,6 +1,6 @@
 <!-- GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ECEDF7D8&center=true&vCenter=true&lines=Hey%2C+you.+You're+finally+awake.;Welcome+to+my+GitHub+profile!;I'm+currently+learning+Python;with+my+daily+dose+of+HTML;and+CSS+%3A">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ECEDF7D8&center=true&vCenter=true&lines=Hey%2C+you.+You're+finally+awake.;Welcome+to+my+GitHub+profile!;I'm+currently+learning+Python;with+my+daily+dose+of+HTML;and+CSS+%3A);(+I+%3C3+nekos)">
 </p>
 
 <!-- STREAK STATS -->
