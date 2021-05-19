@@ -48,9 +48,12 @@
   </summary>
   <p align="center">
     <br>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DanyB0's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DanyB0&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
-    <br/>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="DanyB0's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DanyB0&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
     </a>
+    <br><br/>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DanyB0's Activity trophies" src="https://github-profile-trophy.vercel.app/?username=DanyB0&theme=darkhub&no-frame=true&row=1&column=2" />
+    </a>
+    <br/>
   </p>
 </details>
   
