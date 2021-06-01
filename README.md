@@ -33,6 +33,10 @@
   <a align="center" href="https://github.com/DanyB0/meet-attendance">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DanyB0&repo=meet-attendance&theme=material-palenight&bg_color=0D1117&hide_border=true" alt="meet-attendence">
   </a>
+  <!-- whatsapp-neko-message -->
+  <a align="center" href="https://github.com/DanyB0/whatsapp-neko-message">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DanyB0&repo=whatsapp-neko-message&theme=material-palenight&bg_color=0D1117&hide_border=true" alt="whatsapp-neko-message">
+  </a>
 </p>
 
 <!-- MORE REPOS BADGE -->
