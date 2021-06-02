@@ -37,6 +37,10 @@
   <a align="center" href="https://github.com/DanyB0/whatsapp-neko-message">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DanyB0&repo=whatsapp-neko-message&theme=material-palenight&bg_color=0D1117&hide_border=true" alt="whatsapp-neko-message">
   </a>
+  <!-- python-formatting-helper -->
+  <a align="center" href="https://github.com/DanyB0/python-formatting-helper">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DanyB0&repo=python-formatting-helper&theme=material-palenight&bg_color=0D1117&hide_border=true" alt="python-formatting-helper">
+  </a>
 </p>
 
 <!-- MORE REPOS BADGE -->
