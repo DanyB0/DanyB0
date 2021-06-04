@@ -86,6 +86,7 @@
   <p align="center">
     <br/>
       <a href='https://postimg.cc/QVHn68r9' target='_blank'><img src='https://i.postimg.cc/ryJXwsnJ/gamer-girl-05.jpg' border='0' alt='gamer-girl-05'/></a>
+      <a href='https://postimg.cc/s1J4FJJk' target='_blank'><img src='https://i.postimg.cc/9X6878wQ/bg.jpg' border='0' alt='clumsy-toughts'/></a>
       <a href='https://postimg.cc/PPv9qt3s' target='_blank'><img src='https://i.postimg.cc/YqdHb0Q9/angel-with-shotgun.jpg' border='0' alt='angel-with-shotgun'/></a>
       <a href='https://postimg.cc/xNc7MY9m' target='_blank'><img src='https://i.postimg.cc/T1968YSt/ok.png' border='0' alt='ok'/></a>
       <a href='https://postimg.cc/LJByqhj7' target='_blank'><img src='https://i.postimg.cc/9Qssn70W/Img-3.jpg' border='0' alt='Img-3'/></a>
