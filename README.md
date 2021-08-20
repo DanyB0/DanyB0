@@ -65,7 +65,7 @@
   </p>
 </details>
   
-<!-- MUSIC -->
+<!-- MUSIC
 <details> 
   <summary>
     Music
@@ -77,6 +77,7 @@
     <br/>
   </p>
 </details>
+-->
   
 <!-- IMAGES -->
 <details> 
