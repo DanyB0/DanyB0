@@ -111,7 +111,7 @@
   <br><br/>
   <a href="https://t.me//DanyB0">Telegram</a>
   <br>
-  Discord (DanyB0#0013)
+  Discord (DanyB0#6791)
   <br/>
 </p>
 
