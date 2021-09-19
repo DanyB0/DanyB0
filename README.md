@@ -83,7 +83,7 @@
 </details>
 -->
   
-<!-- IMAGES -->
+<!-- IMAGES
 <details> 
   <summary>
     A lot of images without context
@@ -104,6 +104,7 @@
   </p>
 </details>
 <h1><h1/>
+-->
 
 <!-- CONTACT -->
 <p align="center">
